@@ -7,7 +7,7 @@ const AppRouter = () => {
   return (
     <Router>
         <Routes>
-            <Route exect path="/" element={<HomePage />}></Route>
+            <Route exect path="/" element={<HomePage />}> <HomePage /> </Route>
             <Route exect path="/user/:username" element={<UserDetails />}></Route>
         </Routes>
     </Router>
