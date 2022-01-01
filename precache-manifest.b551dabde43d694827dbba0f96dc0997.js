@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c92e2e318d256b9e57c03da6d16bf65a",
+    "revision": "56dfd8f8177f1d36e5093a153bb74619",
     "url": "/React-Project-Moveo/index.html"
   },
   {
-    "revision": "e327beecc94afef03c81",
+    "revision": "b6f2066f3035b797ca92",
     "url": "/React-Project-Moveo/static/css/main.f36dd28d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/React-Project-Moveo/static/js/2.3d7bc48b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e327beecc94afef03c81",
-    "url": "/React-Project-Moveo/static/js/main.c31446be.chunk.js"
+    "revision": "b6f2066f3035b797ca92",
+    "url": "/React-Project-Moveo/static/js/main.25c164df.chunk.js"
   },
   {
     "revision": "3a87dbdadcd43a133aae",
