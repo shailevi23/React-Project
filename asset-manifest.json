@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/React-Project-Moveo/static/css/main.f36dd28d.chunk.css",
-    "main.js": "/React-Project-Moveo/static/js/main.0c8b4376.chunk.js",
-    "main.js.map": "/React-Project-Moveo/static/js/main.0c8b4376.chunk.js.map",
+    "main.js": "/React-Project-Moveo/static/js/main.660b62f4.chunk.js",
+    "main.js.map": "/React-Project-Moveo/static/js/main.660b62f4.chunk.js.map",
     "runtime-main.js": "/React-Project-Moveo/static/js/runtime-main.dfd0f1ef.js",
     "runtime-main.js.map": "/React-Project-Moveo/static/js/runtime-main.dfd0f1ef.js.map",
     "static/js/2.012b6506.chunk.js": "/React-Project-Moveo/static/js/2.012b6506.chunk.js",
     "static/js/2.012b6506.chunk.js.map": "/React-Project-Moveo/static/js/2.012b6506.chunk.js.map",
     "index.html": "/React-Project-Moveo/index.html",
-    "precache-manifest.451b8ac64268399fc60f3d9750400c9a.js": "/React-Project-Moveo/precache-manifest.451b8ac64268399fc60f3d9750400c9a.js",
+    "precache-manifest.3912270827b1c8e68881618500c74324.js": "/React-Project-Moveo/precache-manifest.3912270827b1c8e68881618500c74324.js",
     "service-worker.js": "/React-Project-Moveo/service-worker.js",
     "static/css/main.f36dd28d.chunk.css.map": "/React-Project-Moveo/static/css/main.f36dd28d.chunk.css.map",
     "static/js/2.012b6506.chunk.js.LICENSE.txt": "/React-Project-Moveo/static/js/2.012b6506.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.dfd0f1ef.js",
     "static/js/2.012b6506.chunk.js",
     "static/css/main.f36dd28d.chunk.css",
-    "static/js/main.0c8b4376.chunk.js"
+    "static/js/main.660b62f4.chunk.js"
   ]
 }
