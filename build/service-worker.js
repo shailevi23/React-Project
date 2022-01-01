@@ -14,12 +14,12 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React-Project-Moveo/precache-manifest.09dd506692c542f3750de5f028cf1257.js"
+  "/React-Project-Moveo/precache-manifest.40deaa2cf744f5f6037ccbb1af82f4fa.js"
 );
 
-self.addEventListener('message', (event) => {
+window.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
+    window.skipWaiting();
   }
 });
 
@@ -30,8 +30,8 @@ workbox.core.clientsClaim();
  * requests for URLs in the manifest.
  * See https://goo.gl/S9QRab
  */
-self.__precacheManifest = [].concat(self.__precacheManifest || []);
-workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
+ window.__precacheManifest = [].concat(window.__precacheManifest || []);
+workbox.precaching.precacheAndRoute(window.__precacheManifest, {});
 
 workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/React-Project-Moveo/index.html"), {
   
