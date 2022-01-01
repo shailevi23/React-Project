@@ -10,7 +10,7 @@ const Helper = ({ users, isLoading }) => {
   }
 
   const UserDetailsPage=(user)=>{
-    navigate('/user/:' + user.login.username ,{state:{location: user.location ,img: user.picture.large, fname: user.name.first[0] + ". " + user.name.last, email: user.email, gender:user.gender, age: user.dob.age}});
+    navigate('/React-Project-Moveo/user/:' + user.login.username ,{state:{location: user.location ,img: user.picture.large, fname: user.name.first[0] + ". " + user.name.last, email: user.email, gender:user.gender, age: user.dob.age}});
       }
 
   return (

@@ -10,7 +10,6 @@ const Ascending = 1
 const Descending = 0
 
   useEffect(() => {
-      // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [sortActivated, sortedUsers, ]);
 
   if (isLoading) {
