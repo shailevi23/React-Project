@@ -1,1 +1,1 @@
-export { default as UserDetailsPage } from "./UserDetails";
+export { default } from "./UserDetails";

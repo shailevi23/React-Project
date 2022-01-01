@@ -1,1 +1,1 @@
-export { default } from "./ShowRandomUsers";
+export { default } from "./BuildTableAndSortUsers";

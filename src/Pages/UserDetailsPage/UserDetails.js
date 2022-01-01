@@ -1,18 +1,17 @@
 import React from 'react';
 import { useLocation, useNavigate} from 'react-router-dom';
-//import Map from '../../Components/GoogleMap/Map';
-import Helper from '../../Components/Helper/Helper';
+import Map from '../../Components/GoogleMap/Map';
 import './UserDetails.css';
 
 const UserDetails = () => {
 const navigate = useNavigate();
 const locationData = useLocation();
 
-// const location = {
-//     address: locationData.state.location.street.name + ", " + locationData.state.location.city + ", " + locationData.state.location.state,
-//     lat: parseInt(locationData.state.location.coordinates.latitude),
-//     lng: parseInt(locationData.state.location.coordinates.longitude),
-//   }
+const location = {
+    address: locationData.state.location.street.name + ", " + locationData.state.location.city + ", " + locationData.state.location.state,
+    lat: parseInt(locationData.state.location.coordinates.latitude),
+    lng: parseInt(locationData.state.location.coordinates.longitude),
+  }
 
 return (
     <div className="user-details">
@@ -24,7 +23,7 @@ return (
           <div> <a href={"mailto:" + locationData.state.email} style={{ color: "aqua" }}> {locationData.state.email} </a></div>
           <div> {locationData.state.gender} </div>
           <div> {locationData.state.age} </div>
-          <Helper locationData={locationData}/>
+          <Map location={location} zoomLevel={5} />
           <button onClick={() => navigate(-1)}><div className="arrow left"></div></button>
         </div>
       </header>
