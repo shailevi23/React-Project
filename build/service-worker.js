@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/React-Project-Moveo/precache-manifest.37951f9c34a2901522fbd3460efe1687.js"
+  "/React-Project-Moveo/precache-manifest.b551dabde43d694827dbba0f96dc0997.js"
 );
 
 self.addEventListener('message', (event) => {
