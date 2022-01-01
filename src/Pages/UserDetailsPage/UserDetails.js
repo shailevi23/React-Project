@@ -6,14 +6,11 @@ import './UserDetails.css';
 const UserDetails = () => {
 const navigate = useNavigate();
 const locationData = useLocation();
-const latitude = parseInt(locationData.state.location.coordinates.latitude);
-const longitude = parseInt(locationData.state.location.coordinates.longitude);
-const addrress = locationData.state.location.street.name + ", " + locationData.state.location.city + ", " + locationData.state.location.state;
 
 const location = {
-    address: addrress,
-    lat: latitude,
-    lng: longitude,
+    address: locationData.state.location.street.name + ", " + locationData.state.location.city + ", " + locationData.state.location.state,
+    lat: parseInt(locationData.state.location.coordinates.latitude),
+    lng: parseInt(locationData.state.location.coordinates.longitude),
   }
 
 return (
