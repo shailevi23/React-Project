@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Project-Moveo/static/css/main.16dee54b.chunk.css",
+    "main.js": "/React-Project-Moveo/static/js/main.895dc779.chunk.js",
+    "main.js.map": "/React-Project-Moveo/static/js/main.895dc779.chunk.js.map",
+    "runtime~main.js": "/React-Project-Moveo/static/js/runtime~main.2eca5d75.js",
+    "runtime~main.js.map": "/React-Project-Moveo/static/js/runtime~main.2eca5d75.js.map",
+    "static/js/2.4ea724c0.chunk.js": "/React-Project-Moveo/static/js/2.4ea724c0.chunk.js",
+    "static/js/2.4ea724c0.chunk.js.map": "/React-Project-Moveo/static/js/2.4ea724c0.chunk.js.map",
+    "index.html": "/React-Project-Moveo/index.html",
+    "precache-manifest.09dd506692c542f3750de5f028cf1257.js": "/React-Project-Moveo/precache-manifest.09dd506692c542f3750de5f028cf1257.js",
+    "service-worker.js": "/React-Project-Moveo/service-worker.js",
+    "static/css/main.16dee54b.chunk.css.map": "/React-Project-Moveo/static/css/main.16dee54b.chunk.css.map"
+  }
+}
