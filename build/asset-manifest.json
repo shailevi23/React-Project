@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/React-Project-Moveo/static/css/main.f36dd28d.chunk.css",
-    "main.js": "/React-Project-Moveo/static/js/main.660b62f4.chunk.js",
-    "main.js.map": "/React-Project-Moveo/static/js/main.660b62f4.chunk.js.map",
+    "main.js": "/React-Project-Moveo/static/js/main.fffafa16.chunk.js",
+    "main.js.map": "/React-Project-Moveo/static/js/main.fffafa16.chunk.js.map",
     "runtime-main.js": "/React-Project-Moveo/static/js/runtime-main.dfd0f1ef.js",
     "runtime-main.js.map": "/React-Project-Moveo/static/js/runtime-main.dfd0f1ef.js.map",
-    "static/js/2.012b6506.chunk.js": "/React-Project-Moveo/static/js/2.012b6506.chunk.js",
-    "static/js/2.012b6506.chunk.js.map": "/React-Project-Moveo/static/js/2.012b6506.chunk.js.map",
+    "static/js/2.3d7bc48b.chunk.js": "/React-Project-Moveo/static/js/2.3d7bc48b.chunk.js",
+    "static/js/2.3d7bc48b.chunk.js.map": "/React-Project-Moveo/static/js/2.3d7bc48b.chunk.js.map",
     "index.html": "/React-Project-Moveo/index.html",
-    "precache-manifest.3912270827b1c8e68881618500c74324.js": "/React-Project-Moveo/precache-manifest.3912270827b1c8e68881618500c74324.js",
+    "precache-manifest.b41995baf02e72891db7ac5caaec4f55.js": "/React-Project-Moveo/precache-manifest.b41995baf02e72891db7ac5caaec4f55.js",
     "service-worker.js": "/React-Project-Moveo/service-worker.js",
     "static/css/main.f36dd28d.chunk.css.map": "/React-Project-Moveo/static/css/main.f36dd28d.chunk.css.map",
-    "static/js/2.012b6506.chunk.js.LICENSE.txt": "/React-Project-Moveo/static/js/2.012b6506.chunk.js.LICENSE.txt"
+    "static/js/2.3d7bc48b.chunk.js.LICENSE.txt": "/React-Project-Moveo/static/js/2.3d7bc48b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dfd0f1ef.js",
-    "static/js/2.012b6506.chunk.js",
+    "static/js/2.3d7bc48b.chunk.js",
     "static/css/main.f36dd28d.chunk.css",
-    "static/js/main.660b62f4.chunk.js"
+    "static/js/main.fffafa16.chunk.js"
   ]
 }
