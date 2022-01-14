@@ -1,9 +1,9 @@
 {
-  "homepage": "http://shailevi23.github.io/React-Project-Moveo",
+  "homepage": "http://shailevi23.github.io/React-Project",
   "name": "moveo-react",
   "version": "1.0.0",
   "license": "MIT",
-  "repository": "https://github.com/shailevi23/React-Project-Moveo",
+  "repository": "https://github.com/shailevi23/React-Project",
   "dependencies": {
     "@types/react-router-dom": "^5.3.2",
     "create-react-app": "^5.0.0",
