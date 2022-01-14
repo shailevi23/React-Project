@@ -1,4 +1,4 @@
-# React-Project-Moveo
+# React-Project
 
 Please Note: this project is still in development.
 Also, i cancalled my subscription to Google maps so i dont have API key in my project.
