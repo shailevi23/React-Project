@@ -8,4 +8,4 @@ Right now im working on 2 bug fixes -> the first bug happens by pressing a user 
 becuse right now its working only by pressing the user in the table ( becuase I use useLocation and useNavigate )
 
 PROJECT:
-https://shailevi23.github.io/React-Project-Moveo/
+https://shailevi23.github.io/React-Project/
